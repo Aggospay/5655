@@ -10,3 +10,4 @@ gffff
 45gffg
 fghfghfg
 fdhfdgfddf
+strong potential
